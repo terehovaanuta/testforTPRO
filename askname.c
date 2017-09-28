@@ -9,5 +9,8 @@ void askname(char *first, char *last)
 
     printf("Now enter your last name: ");
     gets(last); /* buffer overflow? what's that? */
+<<<<<<< HEAD
 	
+=======
+>>>>>>> parent of 71b5907... Revert "commit branch"
 }
