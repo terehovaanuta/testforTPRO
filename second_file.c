@@ -4,6 +4,7 @@
 int main(int argc, char **argv)
 {
     printf("Hello! My name is Ann\n")
+    printf("Hello! My name is Anna\n")
     char name[255];
 
     printf("Enter your name: ");
