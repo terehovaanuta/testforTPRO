@@ -3,6 +3,7 @@
 
 int main(int argc, char **argv)
 {
+    printf("Hello! My name is Ann\n")
     char name[255];
 
     printf("Enter your name: ");
